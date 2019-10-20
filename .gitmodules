@@ -6,4 +6,4 @@
 	url = https://github.com/peteasa/examples.git
 [submodule "parallella-yoctobuild"]
 	path = parallella-yoctobuild
-	url = https://github.com/peteasa/parallella-yoctobuild.git
+	url = https://github.com/Ole2mail/parallella-yoctobuild.git
